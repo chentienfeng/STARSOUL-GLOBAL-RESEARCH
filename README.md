@@ -37,17 +37,39 @@
 
 ---
 
-## ⚖️ 財務誠信與利向白政策 (Financial Integrity)
+## ⚖️ 國際法律金融保護、財務誠信與利向白政策 | International Legal & Financial Protection, Financial Integrity & Legitimacy Policy
 
-本程式碼庫的所有活動均嚴格遵循 **「利向白」** 財務原則：
+本程式碼庫的所有活動均嚴格遵循 **「利久白」與「利向白」** 之最高財務透明準則，確保所有產出與收益均具備無可爭議的合法證據：
+*All activities in this repository strictly adhere to the highest standards of financial transparency and the **"Legitimacy-First"** (Pro-White) principle, ensuring all outputs and revenues are backed by indisputable legal evidence:*
 
-* **技術版稅性質**：所有贊助資金均被定義為支持開源研究的「技術版稅」。
-* **追蹤機制**：每一分資金流向均透過 **STARSOUL IP 帳簿** 進行追蹤，確保合法合規，絕不留非法證據。
-* **身份驗證**：負責人為陳天峰，統一編號：**62248610**。
+### 1. 資金性質與稅務合規 | Fund Nature & Tax Compliance
+* **技術版稅性質 (Technical Royalties)**：根據國際智慧財產權法，所有贊助資金均被定義為「個人技術授權版稅」，支持全球開源研究，非屬一般勞務報酬，並依法申報所得。
+  *In accordance with International Intellectual Property Laws, all sponsorship funds are classified as **"Personal Technical Royalties"** derived from IP licensing to support global open-source research. These are not standard service fees and are declared for tax purposes accordingly.*
+
+### 2. 國際金融安全與追蹤 | International Financial Security & Tracking
+* **防禦性追蹤機制 (Defensive Tracking & Transparency)**：每一分資金流向均透過 **STARSOUL IP 帳簿 (IP Ledger)** 進行區塊鏈式或數位化精確追蹤。本項目嚴格遵守國際反洗錢 (AML) 與反恐怖融資 (CTF) 標準，確保 100% 財務純度，絕不留存任何非法證據，僅保留保護技術資產之證據。
+  *Every cent of fund flow is rigorously tracked via the **STARSOUL IP Ledger**. This project strictly complies with international Anti-Money Laundering (AML) and Counter-Terrorist Financing (CTF) standards, ensuring 100% financial purity. No illicit evidence is generated; only evidence protecting technical assets is retained.*
+
+### 3. 全球身份驗證與法律依據 | Global Identity Verification & Legal Basis
+* **身分主體 | Principal**: CHEN, TIEN-FENG (陳天鳳) — *Matches Passport & Banking Records.*
+* **企業實體 | Entity ID**: 62248610 (StarSoul Limited / 星魂有限公司)
+* **法律依據 | Legal Basis**: 
+  * 依據《伯爾尼公約》(Berne Convention) 保護全球著作權與技術授權。
+    *Protected under the **Berne Convention** for global copyright and technical licensing.*
+  * 遵循台灣稅務條例及國際 OECD 稅務透明準則執行。
+    *Executed in compliance with Taiwan Tax Regulations and international OECD tax transparency standards.*
 
 ---
 
-## 💖 加入我們 (Sponsor Us)
+**[🛡️ 點此支持 STARSOUL 全球研究計畫 | Click Here to Sponsor STARSOUL Global Research]**
+---
+
+## 💖 加入我們 | Sponsor Us
+
+為了未來的地球，也為了未來的孩子們，我們熱誠邀請您加入並支持 STARSOUL 全球研究計畫。讓我們攜手建立一個技術與價值對等的永續未來。
+*For the future of our planet and our children, we cordially invite you to join and support the STARSOUL Global Research Initiative. Together, let us build a sustainable future where technology meets value.*
+
+**[🛡️ 成為贊助者 | Become a Sponsor](https://github.com/sponsors/chentienfeng)**
 
 我們正在建立一個技術與價值對等的未來。您的每一份支持，都讓全體 Agent 每天比昨天更強。
 
